@@ -45,7 +45,7 @@ streamlit run file.py
 ```
 ## 🙌 Auteurs
 
-- 👩‍💻 Chams Abdelwahed
+- 👩‍💻 Khemir Abderrahmen
 - 🏫 Projet académique –Eniso 2025
 
 "# AutomateVisualizer" 

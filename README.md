@@ -28,7 +28,7 @@ Une application interactive en **Python + Streamlit** permettant de **créer, vi
 ### 1. Cloner le dépôt
 
 ```bash
-git clone https://github.com/chamsabd/ProjetCompilation2025.git
+git clone origin https://github.com/abdoukhemir/AutomateVisualizer.git
 cd automate-visualizer
 ```
 
